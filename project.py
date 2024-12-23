@@ -42,7 +42,7 @@ lower_button.place( x = 550, y = 340 )
 
 
 output_label = Label( window, text = 'Output :', font = ('Times New Roman', 32), fg = 'navy', bg = 'LemonChiffon2' )
-output_label.place( x = 150, y = 380 )
+output_label.place( x = 150, y = 250 )
 
 
 
