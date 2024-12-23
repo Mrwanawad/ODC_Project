@@ -37,6 +37,12 @@ button_4 = Button( window, text = 'Click to show upper\n version of your name', 
                       command = upper_func)
 button_4.place( x = 550, y = 80 )
 
+burron_5 = Button( window, text = 'Click to show upper\n version of your name', font = ('Times New Roman', 14), fg = 'navy', bg = 'snow2', width = 18,
+                      command = upper_func)
+burron_5.place( x = 400, y = 340 )
+
+
+
 capitalize_button = Button( window, text = 'Click to show capitalized\n version of your name', font = ('Times New Roman', 14), fg = 'navy', bg = 'snow2', width = 20,
                            command = capitalize_func)
 capitalize_button.place( x = 540, y = 240 )
