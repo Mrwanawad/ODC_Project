@@ -17,6 +17,7 @@ def lower_func() :
 
 
 window = Tk()
+window.title('local repo')
 window.geometry( '900x400')
 window.resizable(False, False)
 window.config( bg = 'LemonChiffon2' )
